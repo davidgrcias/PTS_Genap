@@ -1,2 +1,1 @@
-# PTS_Genap
-PTS Genap David  X RPL 1
+Ujian Keterampilan PTS Genap tentang HTML dan GitHub
